@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 This is my repository for some projects, notes and some 💩.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=acCyz)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=acCyz?count_private=true)](https://github.com/anuraghazra/github-readme-stats)
