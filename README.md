@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 Here is aCcyz, currently a graduate student in the Department of Computer Science at Tongji University.
-dabble in: knowledge graph, knowledge representation learning, and recommendation algorithms based on knowledge graph
+Dabble in: knowledge graph, knowledge representation learning, and recommendation algorithms based on knowledge graph
 
 This is my repository for some projects and notes.
 
