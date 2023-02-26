@@ -15,11 +15,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 This is my repository for some projects, notes.
+
 I think the best way to learn is to build your own 'wheels', so
+
 Done：
+
 - Build a simple distributed system 
 - Build my own TinyGit tool
+
 TODO list:
+
 - Build my own relational database
 - Build my own OS
 - Build my own TCP
