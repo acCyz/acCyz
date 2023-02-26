@@ -14,9 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-This is my repository for some projects, notes.
+Here is aCcyz, currently a graduate student in the Department of Computer Science at Tongji University
+This is my repository for some projects and notes.
 
-I think the best way to learn is to build your own 'wheels', so
+I believe that the best way to learn is to build your own 'wheels', so
 
 Done：
 
