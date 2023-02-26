@@ -38,4 +38,4 @@ I believe that the best way to learn is to build your own 'wheels', so
 - ...
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=acCyz&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-![acCyz's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=acCyz&layout=compact&hide_border=falsee&langs_count=5)
+![acCyz's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=acCyz&layout=compact&hide_border=falsee&langs_count=10)
