@@ -14,6 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-This is my repository for some projects, notes and some 💩.
+This is my repository for some projects, notes.
+I think the best way to learn is to build your own 'wheels', so
+Done：
+- Build a simple distributed system 
+- Build my own TinyGit tool
+TODO list:
+- Build my own relational database
+- Build my own OS
+- Build my own TCP
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=acCyz&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
