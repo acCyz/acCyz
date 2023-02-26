@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Here is aCcyz, currently a graduate student in the Department of Computer Science at Tongji University.
+Here is acCyz, currently a graduate student in the Department of Computer Science at Tongji University.
 Dabble in: knowledge graph, knowledge representation learning, and recommendation algorithms based on knowledge graph
 
 This is my repository for some projects and notes.
