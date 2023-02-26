@@ -14,22 +14,27 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Here is aCcyz, currently a graduate student in the Department of Computer Science at Tongji University
+Here is aCcyz, currently a graduate student in the Department of Computer Science at Tongji University.
+dabble in: knowledge graph, knowledge representation learning, and recommendation algorithms based on knowledge graph
+
 This is my repository for some projects and notes.
+
+I'm interested in software development and currently looking for back-end development internship(2024)
 
 I believe that the best way to learn is to build your own 'wheels', so
 
-Done：
+😄Done：
 
 - Build a simple distributed system 
 - Build my own TinyGit tool
 
-TODO list:
+🤔TODO list:
 
-- Build my own relational database
-- Build my own OS
-- Build my own TCP
-- Build a distributed IM
+- Build my own RPC([GeeRpc](https://github.com/geektutu/7days-golang))
+- Build my own relational database(mit6.5830/cum15445)
+- Build my own OS(mit6.828)
+- Build my own TCP(cs144)
+- Build a distributed IM([CIM](https://github.com/crossoverJie/cim))
 - ...
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=acCyz&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
