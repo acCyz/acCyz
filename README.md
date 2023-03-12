@@ -27,6 +27,7 @@ I believe that the best way to learn is to build your own 'wheels', so
 
 - Build a simple distributed system 
 - Build my own TinyGit tool
+- implement a sownflake ID generator
 
 🤔TODO list:
 
