@@ -14,12 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Here is acCyz, currently a graduate student in the Department of Computer Science at Tongji University.
-Dabble in: knowledge graph, knowledge representation learning, and recommendation algorithms based on knowledge graph
+Here is acCyz, currently a graduate student in the Department of Computer Science at **Tongji University**.
+Dabble in: **knowledge graph**, **knowledge representation learning**, and **recommendation algorithms based on knowledge graph**
+
+[NEW]：Paper acceptance by ICONIP 2023：'Paper Recommendation with Multi-View Knowledge-aware Attentive Network'
+
+I'm interested in software development and  currently a backend intern on the **Alibaba**, **Taobao technology line**
 
 This is my repository for some projects and notes.
-
-I'm interested in software development and currently looking for back-end development internship(2024)
 
 I believe that the best way to learn is to build your own 'wheels', so
 
